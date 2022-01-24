@@ -1,4 +1,7 @@
-![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/8726637/150733379-a231cc03-4d39-49ec-8c43-d8d59685b0bc.gif)
+<div align="center">
+  <img width=50% src="https://user-images.githubusercontent.com/8726637/150733379-a231cc03-4d39-49ec-8c43-d8d59685b0bc.gif" />
+</div>
+
 ## Hi, this is Mohsen Arsanjani 👋
 Skilled **backend** developer with 10+ years of experience with an innate desire to learn and grow. Hold a **master**'s degree in
 **computer science**. Demonstrated excellent skills in **C#**, **ASP.NET** as well as **.NET Core framework** with hands-on
