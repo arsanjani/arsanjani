@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👯 Statistics
-[![Github stats](https://github-readme-stats.vercel.app/api?username=arsanjani&show_icons=true&theme=tokyonight)](https://github.com/arsanjani)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=arsanjani&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/arsanjani)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsanjani&layout=compact&theme=tokyonight)](https://github.com/arsanjani)
